@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38881118163",
+    "project_id": "karmen-ebc43",
+    "storage_bucket": "karmen-ebc43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38881118163:android:4108f224ccc1f890311126",
+        "android_client_info": {
+          "package_name": "com.example.kermen_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38881118163-e1ph2o1ihcjfd5nkjn6a64i93ujv20st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChz2eJclfIZKBd0o3Nv999HnpkIKCd3dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38881118163-e1ph2o1ihcjfd5nkjn6a64i93ujv20st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
